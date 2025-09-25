@@ -11,10 +11,7 @@ This Raspberry Pi project detects gas leaks and high temperatures, then triggers
 
 ## Setup
 - Connect components as shown
-- Run `python3 main.py`
-
-## Demo
-(Insert a gif or video link)
+- Run `Smart_Gas_Sysytem.py`
 
 ## Author
 Nitin Rajput
